@@ -1,0 +1,17 @@
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-ollama>=0.2.0
+langchain-chroma>=0.1.4
+chromadb>=0.5.0
+pandas>=2.2.0
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+
+
+google-adk>=1.22.0
+litellm>=1.50.0
+
+agent-framework>=1.0.0
+
